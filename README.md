@@ -3,10 +3,10 @@ Hi! I'm Andrew! Follow my journey as I learn to code with the help of [Get Codin
 
 ### My Projects
 
-##In Progress:
+## In Progress:
 1. [Fantasy Hockey Weekly Game Tracker](https://apreynolds1989.github.io/game_tracker/)
 
-##How I've Learned
+## How I've Learned
 1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
 2. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
 

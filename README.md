@@ -1,4 +1,16 @@
-### Hi there 👋
+Hi! I'm Andrew! Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
+
+
+### My Projects
+
+##In Progress:
+1. [Fantasy Hockey Weekly Game Tracker](https://apreynolds1989.github.io/game_tracker/)
+
+##How I've Learned
+1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
+2. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
+
+**More to come!**
 
 <!--
 **apreynolds1989/apreynolds1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

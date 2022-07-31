@@ -3,11 +3,13 @@ Hi :wave: I'm Andrew. Follow my journey as I learn to code with the help of [Get
 ## My Projects
 
 ### In Progress:
-1. [Fantasy Hockey Weekly Game Tracker](https://apreynolds1989.github.io/game_tracker/)
+1. [nextUP (game-tracker-v2)](https://apreynolds1989.github.io/nextUP/)
+2. [Get Gaming](https://apreynolds1989.github.io/nextUP/)
 
 ### How I've Learned
 1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
 2. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
+3. [Fantasy Hockey Weekly Game Tracker - Version 1](https://apreynolds1989.github.io/game_tracker/)
 
 **More to come!**
 

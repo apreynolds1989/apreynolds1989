@@ -4,7 +4,7 @@ Hi :wave: I'm Andrew. Follow my journey as I learn to code with the help of [Get
 
 ### In Progress:
 1. [nextUP (game-tracker-v2)](https://apreynolds1989.github.io/nextUP/)
-2. [Get Gaming](https://apreynolds1989.github.io/nextUP/)
+2. [Get Gaming](https://apreynolds1989.github.io/get-gaming/)
 
 ### How I've Learned
 1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
